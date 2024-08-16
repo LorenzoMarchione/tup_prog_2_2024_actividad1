@@ -1,0 +1,10 @@
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 1\Ejercicio 1\obj\Debug\Ejercicio_1.Cocinar.resources
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 1\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+D:\Users\User\Documents\Guias de estudio\Programacion 2\repos\Guia 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
